@@ -1,0 +1,21 @@
+* {
+  background-color: steelblue;
+  
+}
+body {
+  margin: 0px;
+}
+.menu *{
+	font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+.item-img {
+  width: 470px;
+  height: auto;
+	margin-left: 720px;
+}
+.item-tittle{
+	text-align: center;
+}
