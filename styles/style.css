@@ -1,21 +1,29 @@
-* {
-  background-color: steelblue;
-  
+#page{
+  background-color: brown;
+  text-align: center;  
 }
-body {
-  margin: 0px;
-}
-.menu *{
-	font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+.menu{
+	font-family:'Courier New', Courier, monospace;
   font-size: 20px;
   font-weight: bold;
-  color: whitesmoke;
+  list-style: inside;
 }
-.item-img {
+a{
+  color: aqua;
+}
+ .item-img {
   width: 470px;
   height: auto;
-	margin-left: 720px;
+  }
+  /*
+  margin-left:auto;
+  margin-right:auto;
+
 }
 .item-tittle{
 	text-align: center;
 }
+ul {
+
+
+} */
